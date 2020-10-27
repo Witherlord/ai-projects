@@ -1,6 +1,6 @@
 '''
 This main.py contains necessary functions to build own small AI network from scratch.
-
+Refer to "Fig1 AI Network Concept.png" for a network design visualisation.
 '''
 
 import numpy as np
