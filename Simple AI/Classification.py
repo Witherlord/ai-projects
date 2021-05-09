@@ -360,7 +360,3 @@ if __name__ == '__main__':
     # decisionTree()
     # logisticRegression()
     supportVectorMachine()
-
-
-    row = list()
-    row.append()
